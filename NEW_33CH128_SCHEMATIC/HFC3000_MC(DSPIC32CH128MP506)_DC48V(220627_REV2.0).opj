@@ -1,0 +1,66 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[06/29/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\hfc3000_mc(dspic32ch128mp506)_dc48v(220627_rev2.0).dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\hfc3000_mc(dspic32ch128mp506)_dc48v(220627_rev2.0).dsn")
+      (Path "Design Resources"
+         ".\hfc3000_mc(dspic32ch128mp506)_dc48v(220627_rev2.0).dsn" "SCHEMATIC1")
+      (Select "Design Resources"
+         ".\hfc3000_mc(dspic32ch128mp506)_dc48v(220627_rev2.0).dsn" "SCHEMATIC1"
+         "Power"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 794"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 812")
+        (Scroll "-234 15")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path
+         "D:\SESWORK\NEW_33CH128_SCHEMATIC\HFC3000_MC(DSPIC32CH128MP506)_DC48V(220627_REV2.0).DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CPU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 812")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\SESWORK\NEW_33CH128_SCHEMATIC\HFC3000_MC(DSPIC32CH128MP506)_DC48V(220627_REV2.0).DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Power")))
+  (MPSSessionName "goobo"))

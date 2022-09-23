@@ -1,0 +1,11 @@
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- HFC3100D_Module_Display_220425_Rev3_0.pcb -- Thu Jul 28 17:49:14 2022
+
+
+*JOINNET*
+TP3 ACI_T
+
+*DELPIN*
+U1.12    ACI_T
+*END*
