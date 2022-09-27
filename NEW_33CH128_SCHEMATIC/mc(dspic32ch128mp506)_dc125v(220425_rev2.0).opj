@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[07/28/22]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[09/23/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -50,12 +50,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1241 24 573")
-        (Scroll "1685 1084")
-        (Zoom "124")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1153 24 678")
+        (Scroll "527 130")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "D:\SESWORK\NEW_33CH128_SCHEMATIC\MC(DSPIC32CH128MP506)_DC125V(220425_REV2.0).DSN")
+         "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\MC(DSPIC32CH128MP506)_DC125V(220425_REV2.0).DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1153 24 678")
+        (Scroll "-126 -5")
+        (Zoom "37")
+        (Occurrence "/"))
+      (Path
+         "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\MC(DSPIC32CH128MP506)_DC125V(220425_REV2.0).DSN")
       (Schematic "SCHEMATIC1")
       (Page "CPU")))
   (MPSSessionName "goobo")

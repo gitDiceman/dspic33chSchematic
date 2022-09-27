@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[08/20/22]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[09/25/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -18,8 +18,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\rd(dspic33ch128mp506)_dc125v(220502).dsn")
-      (Path "Design Resources" ".\rd(dspic33ch128mp506)_dc125v(220502).dsn"
+      (Path "Design Resources"
+         "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\rd(dspic33ch128mp506)_dc125v(220502).dsn")
+      (Path "Design Resources"
+         "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\rd(dspic33ch128mp506)_dc125v(220502).dsn"
          "SCHEMATIC1"))
     (HierarchyView)
     (Doc
@@ -30,9 +32,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1153 24 519")
-        (Scroll "2444 0")
-        (Zoom "180")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1537 24 735")
+        (Scroll "51 718")
+        (Zoom "90")
         (Occurrence "/"))
       (Path
          "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\RD(DSPIC33CH128MP506)_DC125V(220502).DSN")
