@@ -18,28 +18,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\rd(dspic33ch128mp506)_dc125v(220502).dsn")
-      (Path "Design Resources"
-         "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\rd(dspic33ch128mp506)_dc125v(220502).dsn"
-         "SCHEMATIC1"))
+      (Select "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 0 0 0 200 0 526"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1537 24 735")
-        (Scroll "51 718")
-        (Zoom "90")
-        (Occurrence "/"))
-      (Path
-         "D:\SESWORK\HFC3100D_PCB_SCHEMATIC(22.05.02)\NEW_33CH128_SCHEMATIC\RD(DSPIC33CH128MP506)_DC125V(220502).DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "Display Circuit")))
+      (Tab 0)))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
     (Folder "Model Libraries"
